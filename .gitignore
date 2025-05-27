@@ -1,0 +1,17 @@
+# Quarto specific
+*.html
+*.pdf
+*.tex
+*.epub
+*.docx
+/_quarto/
+/.quarto/
+/*_files/
+
+# macOS specific
+.DS_Store
+
+# Editor/IDE specific
+.vscode/
+.idea/
+*.swp
