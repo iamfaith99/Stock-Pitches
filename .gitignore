@@ -1,6 +1,6 @@
 # Quarto specific
-*.html
-*.pdf
+#*.html
+#*.pdf
 *.tex
 *.epub
 *.docx
