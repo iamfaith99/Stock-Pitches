@@ -1,0 +1,30 @@
+---
+title: "United Therapeutics (UTHR) - Brief Pitch"
+format:
+  revealjs:
+    theme: simple
+    slide-level: 2
+    scrollable: true
+  pdf:
+    documentclass: article
+    geometry: margin=1in
+    header-includes:
+      - \usepackage{graphicx}
+      - \usepackage{hyperref}
+    pdf-engine: pdflatex
+    toc: false
+    number-sections: false
+---
+
+## United Therapeutics Corporation (UTHR) - BUY
+
+**Fundamental Rationale:**
+United Therapeutics (UTHR) is a fast-growing biotechnology firm and Public Benefit Corporation specializing in rare diseases, notably pulmonary arterial hypertension (PAH), and is a pioneer in organ manufacturing technologies like xenotransplantation. Led by visionary CEO Dr. Martine Rothblatt, UTHR demonstrates robust financial health with consistent double-digit revenue growth (17% YoY in Q1 2025), impressive profitability (Net Profit Margin ~40%), strong free cash flow generation, and a solid balance sheet with zero debt and substantial net cash ($5.0B). A Discounted Cash Flow (DCF) analysis suggests an intrinsic value of $336.7 per share, indicating upside. The company's P/E ratio (TTM ~12.3) is reasonable given its growth profile and strong returns on capital (ROIC ~28.4%).
+
+**Technical Rationale:**
+The monthly stock chart for UTHR indicates a corrective pullback within a broader secular uptrend, potentially forming a bull flag pattern. Key support is observed around $284, with resistance near $320 and a path towards all-time highs around $417. Momentum oscillators like the RSI, while cooled from overbought levels, remain in bullish territory. The Stochastic RSI is showing signs of emerging from an oversold condition. This technical posture suggests a favorable risk/reward for a bullish continuation, particularly if the price decisively reclaims the $320 level.
+
+![UTHR Monthly Price Chart](UTHR%20Chart.png)
+
+**Key Catalysts & Outlook:**
+UTHR's growth is driven by its "Innovation Wave," featuring Tyvaso's expansion into Idiopathic Pulmonary Fibrosis (IPF) with pivotal data expected (TETON 2 in 2H 2025, TETON 1 in 1H 2026), and Ralinepag for PAH (data in 2026). The "Revolution Wave" in organ manufacturing, highlighted by the first planned UKidney xenotransplant in mid-2025, offers transformative long-term potential. These catalysts, combined with strong fundamentals and a constructive technical setup, support a BUY recommendation.
