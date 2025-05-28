@@ -76,7 +76,7 @@ The current market valuation appears to primarily credit UTHR for its establishe
     | **Valuation Ratios (TTM)** |            |                                                     |
     | P/E                          | 12.3       | UTHR: 12.3 (vs. REGN 14.9, BIIB 12.4)               |
     | Forward P/E (NTM)            | 11.0       | UTHR: 11.0 (vs. REGN 16.4, BIIB 8.0)                |
-    | PEG Ratio                    | 0.7 (TTM)  | (User data indicates PEG 1.1 NTM)                  |
+    | PEG Ratio                    | 0.7 (TTM)  | (Data indicates PEG 1.1 NTM)                  |
     | P/B                          | 2.0        | UTHR: 2.0 (vs. REGN 2.1, BIIB 1.1)                  |
     | P/FCF                        | 12.3       | UTHR: 12.3 (vs. REGN 20.0, BIIB 7.6)                |
     | EV/Sales (TTM)               | 3.0        |                                                     |
@@ -184,7 +184,7 @@ UTHR's growth is propelled by a series of well-defined upcoming events across it
 
 The primary valuation for this pitch is derived from the Discounted Cash Flow (DCF) analysis you provided.
 
-**A. Discounted Cash Flow (DCF) Analysis Summary (User-Provided Model):**
+**A. Discounted Cash Flow (DCF) Analysis Summary:**
 
 * **Forecast Period:** 2025E - 2029E for explicit Unlevered Free Cash Flow (UFCF) projections.
 * **Key Projections & Assumptions in the Model:**

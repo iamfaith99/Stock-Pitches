@@ -72,7 +72,7 @@ The confluence of dire long-term fundamentals and current technical signs of a p
         * Operating Cash Flow from cont. ops: Flat.
         * Free Cash Flow: **Negative $3.8M**.
         * Cash & Cash Equivalents: $226.8M.
-* **Key Financial Metrics (from new user-provided structured data - mostly TTM or 5Yr Avg):**
+* **Key Financial Metrics (TTM or 5Yr Avg):**
     * **Margins:**
         * Gross Margin (TTM): 90.4%.
         * EBITDA Margin (TTM): -0.0%.
