@@ -92,13 +92,13 @@ The confluence of dire long-term fundamentals and current technical signs of a p
         * EBIT/Interest: **-0.1** (EBIT does not cover interest payments).
 
 ## 5. Valuation Concerns
-* **TTM Valuation Multiples (from new user data):**
-    * P/E: **-27.2** (due to negative TTM earnings).
-    * P/B: **23.4** (exceptionally high, especially with negative 5yr avg ROE and current equity of only ~$45.5M).
+* **TTM Valuation Multiples:**
+    * P/E: **-32.9** (due to negative TTM earnings).
+    * P/B: **28.3** (exceptionally high, especially with negative 5yr avg ROE and current equity of only ~$45.5M).
     * EV/EBITDA: **-5,171.5** (due to negative TTM EBITDA).
     * P/FCF (TTM): 21.0. *(This positive multiple based on LTM FCF is questionable given Q1 2025 FCF was negative -$3.8M. If FCF is indeed negative currently, P/FCF would also be negative or not meaningful.)*
-* **NTM Valuation Multiples (Analyst Consensus from new user data):**
-    * P/E: **334.4** (extremely high, implying very low expected NTM EPS).
+* **NTM Valuation Multiples:**
+    * P/E: **404.8** (extremely high, implying very low expected NTM EPS).
     * PEG Ratio: 0.3. *(A low PEG is typically bullish, but in this context, it's likely based on projected growth from a severely depressed earnings base and should be treated with caution, especially given negative EPS Fwd 2Yr CAGR of -6.1% from the same data source.)*
 * **Analyst Price Target:** $22.75. (Compared to the recent price noted in TA around $27.90, this target implies downside potential).
 
